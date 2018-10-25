@@ -5,6 +5,8 @@ El proyecto muestra simplemente una WEB con el template engine Handlebars (Moust
 
 La WEB navega de Home a About, en ambos se usan templates o partials para generar contenido dinámico se usa Express y HBS en Node.js
 
+> Además fue desplegada en Heroku como parte de la práctica del curso. :)
+
 ## Para instalar las dependencias:
 
 ```
